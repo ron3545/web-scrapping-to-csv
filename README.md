@@ -1,5 +1,5 @@
 # Overview
-This Python script performs web scraping on the Newegg website to extract information about desktop graphics cards. The script utilizes the BeautifulSoup library to parse HTML content and extract relevant data, which is then saved to a CSV file named "product.csv."
+This Python script performs web scraping on the desired website to extract information about desktop graphics cards. The script utilizes the BeautifulSoup library to parse HTML content and extract relevant data, which is then saved to a CSV file named "product.csv."
 
 # Dependencies
 - **urllib.request**:  Used for opening URLs.
