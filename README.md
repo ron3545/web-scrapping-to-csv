@@ -1,6 +1,9 @@
 # Overview
 This Python script performs web scraping on the desired website to extract information about desktop graphics cards. The script utilizes the BeautifulSoup library to parse HTML content and extract relevant data, which is then saved to a CSV file named "product.csv."
 
+### Note
+This doesn't include proxies, which helps in avoiding web-blocking.
+
 # Dependencies
 - **requests**:  Used for opening URLs.
 - **BeautifulSoup (bs4)**: A Python library for pulling data out of HTML and XML files.
